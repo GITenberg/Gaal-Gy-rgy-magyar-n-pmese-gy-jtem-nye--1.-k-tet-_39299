@@ -1,0 +1,33 @@
+_repo: Gaal-Gy-rgy-magyar-n-pmese-gy-jtem-nye--1.-k-tet-_39299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaal, György
+    alias: Gaal, Gyorgy
+    birthdate: 1783
+    deathdate: 1855
+    gutenberg_agent_id: '39946'
+    url: http://www.gutenberg.org/2009/agents/39946
+    wikipedia: http://hu.wikipedia.org/wiki/Gaal_Gy%C3%B6rgy_%28%C3%ADr%C3%B3%29
+description: ''
+gutenberg_issued: '2012-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39299'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcc 'GR'
+- !lcsh 'Folk literature, Hungarian'
+- !lcsh 'Tales -- Hungary'
+tableOfContents: Világbiró Nagy Mátyás -- Balga Tamás -- A mostohaanya -- Többsincs
+  királyfi -- A szökött katona -- A testvéri átok -- A zöld dragonyos -- A kővévált
+  királyfi -- Szegfűhaju János -- Jankalovics -- A három tanács.
+title: Gaal György magyar népmese-gyűjteménye (1. kötet)
+url: http://www.gutenberg.org/ebooks/39299
